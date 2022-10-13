@@ -4,15 +4,15 @@
   "version": "0.0.0",
   "packageManager": "pnpm@7.12.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Yong Yang <imyangyong@foxmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-name#readme",
+  "funding": "https://github.com/sponsors/imyangyong",
+  "homepage": "https://github.com/imyangyong/pkg-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-name.git"
+    "url": "git+https://github.com/imyangyong/pkg-name.git"
   },
-  "bugs": "https://github.com/antfu/pkg-name/issues",
+  "bugs": "https://github.com/imyangyong/pkg-name/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
@@ -47,9 +47,9 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.27.0",
     "@antfu/ni": "^0.18.0",
-    "@antfu/utils": "^0.5.2",
+    "@imyangyong/eslint-config": "^0.4.4",
+    "@imyangyong/utils": "^0.0.2",
     "@types/node": "^18.7.18",
     "bumpp": "^8.2.1",
     "eslint": "^8.23.1",
